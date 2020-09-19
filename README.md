@@ -12,5 +12,5 @@
 ---
 ###According to Launch Dates from the Kickstarter Data, we see that Kickstarters backing Theatrical Plays when starting at the beginning of summer
 ---
-#Based on our findings, I reccommend that Louise start her kickstarter Campaign in the second or third quarter, preferably the beginnning summer months, as these have historically been successful for Theatrical Plays.
+#Based on our findings, I reccommend that Louise start her Kickstarter Campaign in the second or third quarter, preferably the beginnning summer months, as these have historically been successful for Theatrical Plays.
 ---
